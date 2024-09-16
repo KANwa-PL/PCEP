@@ -1,0 +1,1 @@
+print('Itsy\nbitsy\nspider')
